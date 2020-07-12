@@ -1,7 +1,7 @@
 {
   "name": "craftquest/craft-commerce-starter",
   "description": "This is a starter project for Craft Commerce sites. It includes some basic plugins you'll need to get started with e-commerce sites powered by Craft Commerce.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "project",
   "require": {
     "craftcms/aws-s3": "^1.2",
